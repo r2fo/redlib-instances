@@ -2,6 +2,12 @@
   "updated": "2026-11-14",
   "instances": [
     {
+      "url": "https://redlib.r4fo.com",
+      "country": "DE",
+      "version": "v0.36.0",
+      "cloudflare": true
+    },
+    {
       "url": "https://redlib.cow.rip",
       "country": "IN",
       "version": "v0.40.0",
