@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-23",
   "instances": [
     {
       "url": "https://redlib.r4fo.com",
@@ -11,12 +11,6 @@
       "url": "https://redlib.cow.rip",
       "country": "IN",
       "version": "v0.40.0",
-      "cloudflare": true
-    },
-    {
-      "url": "https://redlib.tiekoetter.com",
-      "country": "US",
-      "version": "v0.69.0",
       "cloudflare": true
     },
     {
